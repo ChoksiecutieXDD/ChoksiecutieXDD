@@ -2,7 +2,7 @@
 
 > *"Always in my day 1's (π_π)"*
 
-I'm a 20-year-old Computer Science student and full-stack developer based in the Philippines. I believe in **vibe coding**—diving straight into the code, breaking things, and understanding exactly where the errors come from to build practical, real-world solutions. 
+I'm a 21-year-old Computer Science student and full-stack developer based in the Philippines. I believe in **vibe coding**—diving straight into the code, breaking things, and understanding exactly where the errors come from to build practical, real-world solutions. 
 
 When I'm not debugging a live deployment, building automation workflows, or migrating legacy code, you can usually find me hitting the gym, out for a jog, or writing freestyles to Boom Bap beats.
 
