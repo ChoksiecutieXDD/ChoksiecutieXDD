@@ -54,10 +54,14 @@ When I'm not debugging a live deployment, building automation workflows, or migr
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChoksiecutieXDD&show_icons=true&theme=tokyonight" alt="Trishtan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoksiecutieXDD&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=ChoksiecutieXDD&theme=tokyonight" alt="GitHub Streak" />
+
+  <br><br>
+
+  <img src="https://github-profile-trophies.vercel.app/?username=ChoksiecutieXDD&theme=onedark&column=4" alt="GitHub Trophies" />
 </div>
 
 ---
