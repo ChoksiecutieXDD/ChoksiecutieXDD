@@ -54,12 +54,16 @@ When I'm not debugging a live deployment, building automation workflows, or migr
 
 ---
 
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChoksiecutieXDD&show_icons=true&theme=tokyonight" alt="Trishtan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoksiecutieXDD&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+---
+
 ### 📫 Let's Connect
 
 * **Business Email:** roxas.t.bscs@gmail.com
 * **LinkedIn:** [Insert Link Here]
 * **Portfolio/Live Apps:** [Insert Link Here]
-
-<br>
-
-*"Always in my day 1's (π_π)"*
