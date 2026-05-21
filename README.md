@@ -8,13 +8,6 @@ When I'm not debugging a live deployment, building automation workflows, or migr
 
 ---
 
-### 🚀 What I'm Currently Building & Exploring
-
-* 🛠️ **RepairMax & Automation:** Developing a comprehensive service management system for phone repair centers, featuring complete automation workflows and chatbot scheduling capabilities.
-* 🔄 **Architecture Upgrades:** Evolving projects like **BigFun**, transitioning them from pure PHP into robust Laravel/Blade applications.
-* 📊 **Machine Learning & Data:** Training machine learning models and analyzing data using Python libraries to find practical insights.
-* 📱 **Mobile & Logic:** Exploring mobile development with Android Studio and building custom logic applications.
-
 ### 💻 Tech Stack & Arsenal
 
 **Frontend** <br>
