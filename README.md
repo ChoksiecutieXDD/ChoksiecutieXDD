@@ -62,6 +62,6 @@ When I'm not debugging a live deployment, building automation workflows, or migr
 ### 📫 Let's Connect
 
 * **Business Email:** trishtanroxas@gmail.com
-* **LinkedIn:** [Insert Link Here]
+* **LinkedIn:** www.linkedin.com/in/trishtan-alexis-roxas-458761413
 * **Portfolio/Live Apps:** [Insert Portfolio Here]
 
