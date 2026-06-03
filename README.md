@@ -61,7 +61,7 @@ When I'm not debugging a live deployment, building automation workflows, or migr
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChoksiecutieXDD&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ChoksiecutieXDD&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="195" />
   <img src="https://streak-stats.demolab.com/?user=ChoksiecutieXDD&theme=tokyonight" alt="GitHub Streak" height="195" />
 </p>
 
