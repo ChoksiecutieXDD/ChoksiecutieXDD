@@ -62,12 +62,10 @@ When I'm not debugging a live deployment, building automation workflows, or migr
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ChoksiecutieXDD&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="195" />
-  <!-- Updated streak stats endpoint to bypass API rate limits -->
-  <img src="https://streak-stats-five.vercel.app/?user=ChoksiecutieXDD&theme=tokyonight" alt="GitHub Streak" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChoksiecutieXDD&theme=tokyonight" alt="GitHub Streak" height="195" />
 </p>
 
 <p align="center">
-  <!-- Set columns to 8 so all trophies (including Reviews) line up horizontally -->
   <img src="https://github-profile-trophies.vercel.app/?username=ChoksiecutieXDD&theme=onedark&column=8" alt="GitHub Trophies" />
 </p>
 
