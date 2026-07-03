@@ -101,15 +101,15 @@ Outside of coding, you'll probably find me at the gym, out for a run, or writing
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=trishtanroxas&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trishtanroxas&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=trishtanroxas&theme=transparent&hide_border=true"/>
 
 </p>
 
@@ -127,14 +127,11 @@ Outside of coding, you'll probably find me at the gym, out for a run, or writing
 
 ## 🤝 Let's Connect
 
-📧 **Email**  
-**trishtanroxas@gmail.com**
+📧 **Email:** <mailto:trishtanroxas@gmail.com>
 
-💼 **LinkedIn**  
-https://www.linkedin.com/in/trishtan-alexis-roxas-458761413
+💼 **LinkedIn:** <https://www.linkedin.com/in/trishtan-alexis-roxas-458761413>
 
-🌐 **Portfolio**  
-https://trishtan-portfolio.netlify.app/
+🌐 **Portfolio:** <https://trishtan-portfolio.netlify.app/>
 
 ---
 
