@@ -101,14 +101,6 @@ Outside of coding, you'll probably find me at the gym, out for a run, or writing
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=trishtanroxas&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trishtanroxas&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
 <img src="https://streak-stats.demolab.com?user=trishtanroxas&theme=transparent&hide_border=true"/>
 
 </p>
